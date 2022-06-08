@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there I am Pratyush Deep 👋
 
-<!--
-**PratyushD35/PratyushD35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/pdhazarika35/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="mailto:pratyushdeep3@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+## About Me 🚀
+- 🎓 I am a B.Tech undergraduate in ETE from Assam Engineering College. I enjoy problem-solving and Development.
+- 👨‍💻 I currently practise at Leetcode and Codeforces.
+
+## Honors & Awards 🏅
+
+- [Hackerrank](https://www.hackerrank.com/pdihazarika35?hr_r=1) ⭐ Gold Badge in CPP 
