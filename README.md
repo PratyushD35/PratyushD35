@@ -24,8 +24,12 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
+
+
 ### Libraries & Framework :
 
 ![django](https://img.shields.io/badge/-django-black?style=flat-square&logo=Node.js)
+
+[![Pratyush's github activity graph](https://activity-graph.herokuapp.com/graph?username=PratyushD35&theme=xcode)](https://github.com/PratyushD35/github-readme-activity-graph
 
 
