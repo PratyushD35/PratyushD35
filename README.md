@@ -30,6 +30,6 @@
 
 ![django](https://img.shields.io/badge/-django-black?style=flat-square&logo=Node.js)
 
-[![Pratyush's github activity graph](https://activity-graph.herokuapp.com/graph?username=PratyushD35&theme=xcode)
+![Pratyush's github activity graph](https://activity-graph.herokuapp.com/graph?username=PratyushD35&theme=xcode)
 
 
